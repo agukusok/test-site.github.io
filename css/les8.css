@@ -103,7 +103,7 @@ td {
 }
 
 .buttons {
-	margin-top: 20px;
+	margin-top: -70px;
 	flex: 1;
 	display: flex;
 	justify-content: space-around;
